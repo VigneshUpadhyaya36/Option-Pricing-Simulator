@@ -13,7 +13,7 @@ Developed following **Agile/Scrum methodology** with unit testing and database i
 
 ## 🔗 Links
 - **Source Code:** [GitHub](https://github.com/yourusername/option-pricing-simulator)  
-- **Live Demo:** [Lovable Project](https://lovable.dev/projects/3bd9bf25-2da2-4558-b6b5-7ffa4561cd80)
+- **Live Demo:** [Project](https://lovable.dev/projects/3bd9bf25-2da2-4558-b6b5-7ffa4561cd80)
 
 ---
 
